@@ -59,7 +59,7 @@ Los datos entregados para trabajar fueron tres y en un formato JSON
 ## Resultado <a name="resultado"></a>
 
 <p align="center">
-  <img src='src\API.png' height=300>
+  <img src='src\API.jpeg' height=300>
 </p>
 
 El resultado es una API renderizada con las funciones requeridas.
